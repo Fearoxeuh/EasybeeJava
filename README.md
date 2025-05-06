@@ -81,4 +81,4 @@ EasybeeJava-main/
 
 ## 🤝 Auteurs
 
-Projet développé par [Votre nom] dans le cadre du BTS SIO.
+Projet développé par [Hedouin Enzo, Leo Carboni] dans le cadre du BTS SIO.
